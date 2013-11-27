@@ -8,17 +8,13 @@
     <IconPath IsRelative="true" IsResource="false">www\data\img\square_icon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
-      <Capability Name="ID_CAP_GAMERSERVICES" />
       <Capability Name="ID_CAP_IDENTITY_DEVICE" />
       <Capability Name="ID_CAP_IDENTITY_USER" />
       <Capability Name="ID_CAP_LOCATION" />
       <Capability Name="ID_CAP_MAP" />
       <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
       <Capability Name="ID_CAP_NETWORKING" />
-      <Capability Name="ID_CAP_MICROPHONE" />
       <Capability Name="ID_CAP_REMOVABLE_STORAGE" />
-      <Capability Name="ID_CAP_ISV_CAMERA" />
-      <Capability Name="ID_CAP_SENSORS" />
       <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
     </Capabilities>
     <Tasks>
